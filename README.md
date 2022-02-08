@@ -54,11 +54,14 @@ object **RAFAEL** {
     <img
          align="center"
          src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
+         />
   </a>
    
    <a href="mailto:rafaelftourinho@gmail.com">
     <img
          align="center"
-         src="https://img.shields.io/badge/Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=00FFFF"
+         src="https://img.shields.io/badge/Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=00FFFF-alt="gmail""
+         />
   </a>
+ 
   </p>
