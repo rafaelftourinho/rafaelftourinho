@@ -47,6 +47,7 @@ object **RAFAEL** {
     <img
       align="center"
       src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF"
+      target="_blank"
     />
   </a>
   
@@ -54,13 +55,16 @@ object **RAFAEL** {
     <img
          align="center"
          src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
+         target="_blank"
          />
   </a>
    
    <a href="mailto:rafaelftourinho@gmail.com">
     <img
          align="center"
-         src="https://img.shields.io/badge/Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=00FFFF-alt="gmail""
+         src="https://img.shields.io/badge/Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=00FFFF" 
+         alt="gmail"
+         target="_blank"
          />
   </a>
  
