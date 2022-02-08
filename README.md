@@ -7,7 +7,7 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 ```kotlin
 object **RAFAEL** {
  val name = "RAFAEL FRANÇA TOURINHO"
- val acknowledgements = "ÁREA DE CONHECIMENTO"
+ val acknowledgements = "PROFESSOR, DESENVOLVEDOR FRONT-END"
  
  val primarySkillset = "ALGUMAS HABILIDADES"
  val languages = listOf("HTML", "CSS", "JavaScript", "Git", "React") 
@@ -16,12 +16,16 @@ object **RAFAEL** {
 
 ## **Linguagens e Ferramentas:**  
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+## **Em aprendizado:**
+
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 
 ## **GitHub Estatísticas**
@@ -34,13 +38,27 @@ object **RAFAEL** {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelftourinho&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
-[website]: https://
-[instagram]: https://www.instagram.com/rafael_franca_/
-[linkedin]: https://www.linkedin.com/in/rafael-franca-564b96206/
-<br>
+
 
 #### Rede Sociais!
 
-🏡 [website][website] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+<p align="left">
+<a href="https://instagram.com/rafael_franca_/">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF"
+    />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/rafael-franca-564b96206/">
+    <img
+         align="center"
+         src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
+  </a>
+   
+   <a href="mailto:rafaelftourinho@gmail.com">
+    <img
+         align="center"
+         src="https://img.shields.io/badge/Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=00FFFF"
+  </a>
+  </p>
