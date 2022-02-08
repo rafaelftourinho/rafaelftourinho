@@ -7,9 +7,9 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 ```kotlin
 object **RAFAEL** {
  val name = "RAFAEL FRANÇA TOURINHO"
- val acknowledgements = "PROFESSOR, DESENVOLVEDOR FRONT-END"
+ val acknowledgements = "PROFESSOR DE QUÍMICA, DESENVOLVEDOR FRONT-END"
  
- val primarySkillset = "ALGUMAS HABILIDADES"
+ val primarySkillset = "HTML, CSS, JavaScript"
  val languages = listOf("HTML", "CSS", "JavaScript", "Git", "React") 
 }
 ```
