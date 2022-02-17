@@ -31,11 +31,11 @@ object **RAFAEL** {
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/rafaelftourinho">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelftourinho&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelftourinho&langs_count=7&theme=dracula&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/rafaelftourinho">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelftourinho&show_icons=true&theme=dracula&line_height=27" alt="**RAFAEL FRANÇA* github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelftourinho&show_icons=true&theme=dracula&line_height=33" alt="**RAFAEL FRANÇA* github stats"/>
 </a>
 
 
