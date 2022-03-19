@@ -69,7 +69,14 @@ object **RAFAEL** {
          />
   </a>
    
-   <a href="mailto:rafaelftourinho@gmail.com">
+   
+ 
+  </p>
+  
+#### Contatos Profissionais
+
+<p align="left">
+ <a href="mailto:rafaelftourinho@gmail.com">
     <img
          align="center"
          src="https://img.shields.io/badge/Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=00FFFF" 
@@ -77,5 +84,4 @@ object **RAFAEL** {
          target="_blank"
          />
   </a>
- 
-  </p>
+ </p>
