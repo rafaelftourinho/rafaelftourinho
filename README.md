@@ -50,7 +50,7 @@ object **RAFAEL** {
 
 
 
-#### Social Midia!
+#### Social Media
 
 <p align="left">
 <a href="https://instagram.com/rafael_franca_/">
