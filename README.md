@@ -1,4 +1,4 @@
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo. <strong>Sou apaixonado por games e tudo deste universo.</strong>
+I enjoy creating great software and helping others do the same. <strong>I'm passionate about games and everything in this universe.</strong>
 
 <div align="center">
  
@@ -6,7 +6,7 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo. <stron
 
  </div>
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
@@ -14,14 +14,14 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo. <stron
 ```kotlin
 object **RAFAEL** {
  val name = "RAFAEL FRANÇA TOURINHO"
- val acknowledgements = "PROFESSOR DE QUÍMICA, DESENVOLVEDOR FRONT-END"
+ val acknowledgements = "DEV FULL STACK STUDENT "
  
  val primarySkillset = "HTML, CSS, JavaScript"
  val languages = listOf("HTML", "CSS", "JavaScript", "Git", "React") 
 }
 ```
 
-## **Linguagens e Ferramentas:**  
+## **Languages and Tools:**  
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -32,13 +32,13 @@ object **RAFAEL** {
 
 
 
-## **Em aprendizado:**
+## **In learning**
 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 
-## **GitHub Estatísticas**
+## **GitHub Statistics**
 
 <a href="https://github.com/rafaelftourinho">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelftourinho&langs_count=7&theme=dracula&hide_langs_below=1" />
@@ -50,7 +50,7 @@ object **RAFAEL** {
 
 
 
-#### Rede Sociais!
+#### Social Midia!
 
 <p align="left">
 <a href="https://instagram.com/rafael_franca_/">
@@ -73,7 +73,7 @@ object **RAFAEL** {
  
   </p>
   
-#### Contatos Profissionais
+#### Professional Contacts
 
 <p align="left">
  <a href="mailto:rafaelftourinho@gmail.com">
