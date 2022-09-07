@@ -29,12 +29,13 @@ object **RAFAEL** {
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
 
 
 
 ## **In learning**
 
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 
