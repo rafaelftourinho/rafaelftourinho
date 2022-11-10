@@ -12,13 +12,13 @@ I enjoy creating great software and helping others do the same. <strong>I'm pass
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 
-```kotlin
-object **RAFAEL** {
- val name = "RAFAEL FRANÇA TOURINHO"
- val acknowledgements = "DEV FULL STACK STUDENT "
- 
- val primarySkillset = "HTML, CSS, JavaScript"
- val languages = listOf("HTML", "CSS", "JavaScript", "Git", "MySQL", "React", "Redux", "Context", "Docker", "Node") 
+```javascript
+const myInfos = {
+ name: "RAFAEL FRANÇA TOURINHO",
+ acknowledgements: "DEV FULL STACK STUDENT",
+ primarySkillset: ["HTML, CSS, JavaScript", "Node"],
+ languages: ["HTML", "CSS", "JavaScript", "Git", "MySQL", 
+ "React", "Redux", "Context", "Docker", "Node"]
 }
 ```
 
