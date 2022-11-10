@@ -18,7 +18,7 @@ object **RAFAEL** {
  val acknowledgements = "DEV FULL STACK STUDENT "
  
  val primarySkillset = "HTML, CSS, JavaScript"
- val languages = listOf("HTML", "CSS", "JavaScript", "Git", "React") 
+ val languages = listOf("HTML", "CSS", "JavaScript", "Git", "MySQL", "React", "Redux", "Context", "Docker", "Node") 
 }
 ```
 
