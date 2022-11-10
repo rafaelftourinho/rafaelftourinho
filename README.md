@@ -62,7 +62,7 @@ object **RAFAEL** {
     />
   </a>
   
-  <a href="https://www.linkedin.com/in/rafael-franca-564b96206/">
+  <a href="https://www.linkedin.com/in/rafael-franca-tourinho/">
     <img
          align="center"
          src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
