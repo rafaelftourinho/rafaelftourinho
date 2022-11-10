@@ -24,20 +24,24 @@ object **RAFAEL** {
 
 ## **Languages and Tools:**  
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
+![EsLint](https://badges.aleen42.com/src/eslint.svg)
+![JavaScript](https://badges.aleen42.com/src/javascript.svg)
+![GitHub](https://badges.aleen42.com/src/github.svg)
+![React](https://badges.aleen42.com/src/react.svg)
+![Redux](https://badges.aleen42.com/src/redux.svg)
+![Node](https://badges.aleen42.com/src/node.svg)
+![Docker](https://badges.aleen42.com/src/docker.svg)
 
 
 
 ## **In learning**
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Python](https://badges.aleen42.com/src/python.svg)
+![TypeScript](https://badges.aleen42.com/src/typescript.svg)
 
 
 ## **GitHub Statistics**
