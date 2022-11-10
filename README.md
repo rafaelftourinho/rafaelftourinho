@@ -1,3 +1,4 @@
+Chemistry professor graduated from UFRJ, with 15 years of teaching experience.
 I enjoy creating great software and helping others do the same. <strong>I'm passionate about games and everything in this universe.</strong>
 
 <div align="center">
