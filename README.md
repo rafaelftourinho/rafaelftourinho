@@ -3,7 +3,8 @@ I enjoy creating great software and helping others do the same. <strong>I'm pass
 
 <div align="center">
  
-![Chrono](https://user-images.githubusercontent.com/97207322/157172121-962cbdb4-a798-4773-b9f9-02643ff0cdab.gif) 
+<!-- ![Chrono](https://user-images.githubusercontent.com/97207322/157172121-962cbdb4-a798-4773-b9f9-02643ff0cdab.gif)  -->
+ <img src="https://user-images.githubusercontent.com/97207322/157172121-962cbdb4-a798-4773-b9f9-02643ff0cdab.gif" width="150px">
 
  </div>
 
@@ -47,7 +48,7 @@ const myInfos = {
 ## **GitHub Statistics**
 
 <a href="https://github.com/rafaelftourinho">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelftourinho&langs_count=7&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelftourinho&langs_count=7&theme=dracula&hide_langs_below=1"  width="300px"/>
 </a>
 
 <a href="https://github.com/rafaelftourinho">
@@ -58,14 +59,14 @@ const myInfos = {
 
 #### Social Media
 
-<p align="left">
+<!-- <p align="left">
 <a href="https://instagram.com/rafael_franca_/">
     <img
       align="center"
       src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF"
       target="_blank"
     />
-  </a>
+  </a> -->
   
   <a href="https://www.linkedin.com/in/rafael-franca-tourinho/">
     <img
