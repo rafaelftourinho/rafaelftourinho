@@ -45,18 +45,6 @@ const myInfos = {
 ![TypeScript](https://badges.aleen42.com/src/typescript.svg)
 
 
-## **GitHub Statistics**
-
-<a href="https://github.com/rafaelftourinho">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelftourinho&langs_count=7&theme=dracula&hide_langs_below=1"  width="300px"/>
-</a>
-
-<a href="https://github.com/rafaelftourinho">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelftourinho&show_icons=true&theme=dracula&line_height=33" alt="**RAFAEL FRANÇA* github stats"/>
-</a>
-
-
-
 #### Social Media
 
 <!-- <p align="left">
@@ -92,3 +80,16 @@ const myInfos = {
          />
   </a>
  </p>
+
+
+## **GitHub Statistics**
+
+<div align="center">
+<a href="https://github.com/rafaelftourinho">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelftourinho&langs_count=7&theme=dracula&hide_langs_below=1"  heigth="160em" width="250px"/>
+</a>
+
+<a href="https://github.com/rafaelftourinho">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelftourinho&show_icons=true&theme=dracula&line_height=33" alt="**RAFAEL FRANÇA* github stats" heigth="160em" width="500px"/>
+</a>
+</div>
