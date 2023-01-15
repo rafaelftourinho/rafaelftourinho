@@ -90,6 +90,5 @@ const myInfos = {
 </a>
 
 <a href="https://github.com/rafaelftourinho">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelftourinho&show_icons=true&theme=dracula&line_height=33" alt="**RAFAEL FRANÇA* github stats" heigth="160em" width="500px"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelftourinho&show_icons=true&theme=dracula&line_height=33&count_private=true" alt="**RAFAEL FRANÇA* github stats" heigth="160em" width="500px"/>
 </a>
-</div>
