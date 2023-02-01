@@ -1,5 +1,7 @@
 <div align="center">Chemistry professor graduated from UFRJ, with 15 years of teaching experience.</div> </br>
-I enjoy creating great software and helping others do the same. <strong>I'm passionate about games and everything in this universe.</strong>
+I enjoy creating great software and helping others do the same. I'm passionate about games and everything in this universe.</br>
+
+<b>My life value is sharing information and helping as many people as I can, because I believe that education is the key to change.</b>
 
 <div align="center">
  
