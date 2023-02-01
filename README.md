@@ -17,35 +17,63 @@ I enjoy creating great software and helping others do the same. <strong>I'm pass
 const myInfos = {
  name: "RAFAEL FRANÇA TOURINHO",
  acknowledgements: "DEV FULL STACK STUDENT",
- primarySkillset: ["HTML, CSS, JavaScript", "Node"],
- languages: ["HTML", "CSS", "JavaScript", "Git", "MySQL", 
- "React", "Redux", "Context", "Docker", "Node"]
+ primarySkillset: ["HTML, CSS, JavaScript", "Node", "TypeScript", "Docker", "React", "MongoDB", "MySQL"],
+ languages: ["HTML", "CSS", "JavaScript", "TypeScript", "MySQL", 
+ "React", "Node"],
+ tools: ["Express", "Redux", "ContextAPI", "Docker", "Git" ]
 }
 ```
 
-## **Languages and Tools:**  
+## **Languages:**
 
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![EsLint](https://badges.aleen42.com/src/eslint.svg)
-![JavaScript](https://badges.aleen42.com/src/javascript.svg)
-![GitHub](https://badges.aleen42.com/src/github.svg)
-![React](https://badges.aleen42.com/src/react.svg)
-![Redux](https://badges.aleen42.com/src/redux.svg)
-![Node](https://badges.aleen42.com/src/node.svg)
-![Docker](https://badges.aleen42.com/src/docker.svg)
+### **BackEnd**
+<section>
+ <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+ <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+ <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</section>
 
+### **FrontEnd**
+<section>
+ <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+ <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</section>
 
+### **Database**
+<section>
+ <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+ <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</section>
+
+### **Testing**
+<section>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+</section>
+
+## **Tools:**
+<section>
+ <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+ <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+ <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+ <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
+ <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+ <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
+ <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+ <img src="https://img.shields.io/badge/SOLID-007ABB?style=for-the-badge&logo=solid&logoColor=white" />
+ <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+ <img src="https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white" />
+ <img src="https://img.shields.io/badge/Mongoose-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</section>
 
 ## **In learning**
 
-![Python](https://badges.aleen42.com/src/python.svg)
-![TypeScript](https://badges.aleen42.com/src/typescript.svg)
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 
 
-#### Social Media
+## **Social Media**
 
 <!-- <p align="left">
 <a href="https://instagram.com/rafael_franca_/">
