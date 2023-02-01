@@ -114,9 +114,9 @@ const myInfos = {
 
 <div align="center">
 <a href="https://github.com/rafaelftourinho">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelftourinho&langs_count=7&theme=dracula&hide_langs_below=1"  heigth="160em" width="250px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelftourinho&langs_count=7&theme=dark&hide_langs_below=1&layout=compact"  heigth="160em" width="450px"/>
 </a>
 
 <a href="https://github.com/rafaelftourinho">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelftourinho&show_icons=true&theme=dracula&line_height=33&count_private=true" alt="**RAFAEL FRANÇA* github stats" heigth="160em" width="500px"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelftourinho&show_icons=true&theme=dark&line_height=33&count_private=true" alt="**RAFAEL FRANÇA* github stats" heigth="160em" width="470px"/>
 </a>
