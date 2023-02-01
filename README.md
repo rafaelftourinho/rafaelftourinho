@@ -16,7 +16,7 @@ I enjoy creating great software and helping others do the same. <strong>I'm pass
 ```javascript
 const myInfos = {
  name: "RAFAEL FRANÇA TOURINHO",
- acknowledgements: "DEV FULL STACK STUDENT",
+ acknowledgements: "DEV FULL STACK",
  primarySkillset: ["HTML, CSS, JavaScript", "Node", "TypeScript", "Docker", "React", "MongoDB", "MySQL"],
  languages: ["HTML", "CSS", "JavaScript", "TypeScript", "MySQL", 
  "React", "Node"],
